@@ -91,8 +91,34 @@ Popular market segments
 
 Most used distribution channels
 
+### 📊 Key Insights from Dashboard
+
+City hotels have more bookings compared to resort hotels.
+
+Longer lead time increases the chance of cancellation.
+
+Most customers come through Online Travel Agents (OTA).
+
+ADR peaks during holidays and tourist seasons.
+
+Families mostly prefer resort hotels.
+
 ✔ Room Type Analysis
 
 Reserved vs assigned room differences
 
 Most booked room types
+
+### 🎯 Project Outcomes
+
+This dashboard helps hotel managers:
+
+Reduce cancellations
+
+Optimize pricing strategies
+
+Improve customer segmentation
+
+Understand seasonal booking behavior
+
+Manage rooms more efficiently
