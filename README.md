@@ -55,3 +55,44 @@ Power BI Desktop
 Data cleaning using Power Query
 
 DAX for calculated measures
+
+### 📈 Dashboard Features
+✔ Booking Trends
+
+Year-wise and month-wise booking patterns
+
+Lead time trend
+
+Total bookings vs cancellations
+
+✔ Guest Analysis
+
+Visitor count by adults, children, and babies
+
+Country-wise distribution
+
+✔ Revenue Insights
+
+ADR analysis
+
+Revenue comparison between hotels
+
+Total stays and nights breakdown
+
+✔ Cancellations
+
+Factors influencing cancellations
+
+Lead time vs cancellation correlation
+
+✔ Market & Channel Analysis
+
+Popular market segments
+
+Most used distribution channels
+
+✔ Room Type Analysis
+
+Reserved vs assigned room differences
+
+Most booked room types
